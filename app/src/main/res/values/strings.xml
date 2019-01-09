@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProximitySensor</string>
+    <string name="proximity_sensor">Proximity Sensor: %1$.2f</string>
+    <string name="no_sensor">No light sensor available</string>
+</resources>
